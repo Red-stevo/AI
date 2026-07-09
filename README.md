@@ -1,2 +1,2 @@
 # AI
-My Udemy AI Course Projects
+Udemy AI Course Projects and Neuron Networks From scratch
